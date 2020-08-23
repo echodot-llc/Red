@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Red/Base.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3" build-num="11C29"/>
+    </header>
+    <body>
+      <trans-unit id="%d total entries" xml:space="preserve">
+        <source>%d total entries</source>
+        <note>Count of entries in the slow log table</note>
+      </trans-unit>
+      <trans-unit id="Add to Keychain" xml:space="preserve">
+        <source>Add to Keychain</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Annuler</target>
+        <note>Cancel button title</note>
+      </trans-unit>
+      <trans-unit id="Choose the private key to use with this connection." xml:space="preserve">
+        <source>Choose the private key to use with this connection.</source>
+        <note>Dialog box header when choosing a private SSH key.</note>
+      </trans-unit>
+      <trans-unit id="Copy" xml:space="preserve">
+        <source>Copy</source>
+        <note>Appended to a duplicated item, eg: Favorite Copy</note>
+      </trans-unit>
+      <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
+        <source>Could not save changes while quitting. Quit anyway?</source>
+        <target>Impossible d'enregistrer les modifications lors de la fermeture. Quitter quand même?</target>
+        <note>Quit without saves error question message</note>
+      </trans-unit>
+      <trans-unit id="Enter your passphrase for the SSH key" xml:space="preserve">
+        <source>Enter your passphrase for the SSH key</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter your password to continue." xml:space="preserve">
+        <source>Enter your password to continue.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target>Favoris</target>
+        <note>Favorites item label</note>
+      </trans-unit>
+      <trans-unit id="Hide Console" xml:space="preserve">
+        <source>Hide Console</source>
+        <target>Masquer la console</target>
+        <note>Hide console panel</note>
+      </trans-unit>
+      <trans-unit id="Hide Detail" xml:space="preserve">
+        <source>Hide Detail</source>
+        <target>Masquer les détails</target>
+        <note>Hide Detail panel</note>
+      </trans-unit>
+      <trans-unit id="I'll support development later" xml:space="preserve">
+        <source>I'll support development later</source>
+        <target>Je soutiendrai le développement plus tard</target>
+        <note>Not yet</note>
+      </trans-unit>
+      <trans-unit id="If you've encountered problems with Red, we need to know about those bugs.  If you report and help fix a bug, you will earn an exclusive 'Contributors' license which unlocks all features of Red." xml:space="preserve">
+        <source>If you've encountered problems with Red, we need to know about those bugs.  If you report and help fix a bug, you will earn an exclusive 'Contributors' license which unlocks all features of Red.</source>
+        <target>Si vous avez rencontré des problèmes avec Red, nous devons connaître ces bogues. Si vous signalez et aidez à corriger un bogue, vous gagnerez une licence exclusive 'Contributors' qui débloquera toutes les fonctionnalités de Red.</target>
+        <note>Report a bug to get a license</note>
+      </trans-unit>
+      <trans-unit id="Internal application error 101" xml:space="preserve">
+        <source>Internal application error 101</source>
+        <note>Dialog header</note>
+      </trans-unit>
+      <trans-unit id="Invalid JSON" xml:space="preserve">
+        <source>Invalid JSON</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MsgPack Failed" xml:space="preserve">
+        <source>MsgPack Failed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Never" xml:space="preserve">
+        <source>Never</source>
+        <target>Jamais</target>
+        <note>Context: 'Expires: Never' (This item will never expire)</note>
+      </trans-unit>
+      <trans-unit id="Not yet" xml:space="preserve">
+        <source>Not yet</source>
+        <target>Pas encore</target>
+        <note>Not yet</note>
+      </trans-unit>
+      <trans-unit id="Only two favorites can be saved in the trial version of Red." xml:space="preserve">
+        <source>Only two favorites can be saved in the trial version of Red.</source>
+        <target>Seuls deux favoris peuvent être enregistrés dans la version d'essai de Red.</target>
+        <note>Alert header when saving more favorites in trial mode</note>
+      </trans-unit>
+      <trans-unit id="Password:" xml:space="preserve">
+        <source>Password:</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase" xml:space="preserve">
+        <source>Purchase</source>
+        <target>Acheter</target>
+        <note>Purchase
+   Store button action</note>
+      </trans-unit>
+      <trans-unit id="Purchased" xml:space="preserve">
+        <source>Purchased</source>
+        <target>Acheté</target>
+        <note>Store button</note>
+      </trans-unit>
+      <trans-unit id="Quick Connect" xml:space="preserve">
+        <source>Quick Connect</source>
+        <target>Connexion rapide</target>
+        <note>Quick connect item label</note>
+      </trans-unit>
+      <trans-unit id="Quit anyway" xml:space="preserve">
+        <source>Quit anyway</source>
+        <target>Quittez quand même</target>
+        <note>Quit anyway button title</note>
+      </trans-unit>
+      <trans-unit id="Quitting now will lose any changes you have made since the last successful save" xml:space="preserve">
+        <source>Quitting now will lose any changes you have made since the last successful save</source>
+        <target>Quitter maintenant perdra toutes les modifications que vous avez apportées depuis la dernière sauvegarde réussie</target>
+        <note>Quit without saves error question info</note>
+      </trans-unit>
+      <trans-unit id="Report a bug" xml:space="preserve">
+        <source>Report a bug</source>
+        <target>Signaler un bug</target>
+        <note>Tell user to report a bug</note>
+      </trans-unit>
+      <trans-unit id="Report an issue" xml:space="preserve">
+        <source>Report an issue</source>
+        <target>Signaler un problème</target>
+        <note>Report an issue</note>
+      </trans-unit>
+      <trans-unit id="Show Console" xml:space="preserve">
+        <source>Show Console</source>
+        <target>Afficher la console</target>
+        <note>Show console panel</note>
+      </trans-unit>
+      <trans-unit id="Show Detail" xml:space="preserve">
+        <source>Show Detail</source>
+        <target>Montrer les détails</target>
+        <note>Show Detail panel</note>
+      </trans-unit>
+      <trans-unit id="Thanks for trying out Red!" xml:space="preserve">
+        <source>Thanks for trying out Red!</source>
+        <target>Merci d'avoir essayé Red!</target>
+        <note>A thank you</note>
+      </trans-unit>
+      <trans-unit id="The SSH Tunnel could not authenticate with the remote host. Please check your password and ensure you still have access." xml:space="preserve">
+        <source>The SSH Tunnel could not authenticate with the remote host. Please check your password and ensure you still have access.</source>
+        <note>SSH tunnel authentication failed message</note>
+      </trans-unit>
+      <trans-unit id="The SSH Tunnel timed out waiting for input." xml:space="preserve">
+        <source>The SSH Tunnel timed out waiting for input.</source>
+        <note>SSH Tunnel timed out</note>
+      </trans-unit>
+      <trans-unit id="The SSH Tunnel was closed 'by the remote host'. This may indicate a networking issue or a network timeout." xml:space="preserve">
+        <source>The SSH Tunnel was closed 'by the remote host'. This may indicate a networking issue or a network timeout.</source>
+        <note>SSH tunnel was closed by remote host message</note>
+      </trans-unit>
+      <trans-unit id="The SSH Tunnel was established successfully, but could not forward data to the remote port as the remote port refused the connection." xml:space="preserve">
+        <source>The SSH Tunnel was established successfully, but could not forward data to the remote port as the remote port refused the connection.</source>
+        <note>SSH tunnel forwarding port connection refused message</note>
+      </trans-unit>
+      <trans-unit id="The SSH Tunnel was unable to bind to the local port. This error may occur if you already have an SSH connection to the same server and are using a 'LocalForward' setting in your SSH configuration.&#10;&#10;Would you like to fall back to a standard connection to localhost in order to use the existing tunnel?" xml:space="preserve">
+        <source>The SSH Tunnel was unable to bind to the local port. This error may occur if you already have an SSH connection to the same server and are using a 'LocalForward' setting in your SSH configuration.
+
+Would you like to fall back to a standard connection to localhost in order to use the existing tunnel?</source>
+        <note>SSH tunnel unable to bind to local port message</note>
+      </trans-unit>
+      <trans-unit id="The SSH Tunnel was unable to connect to host (sshHost), or the request timed out.&#10;&#10;Be sure that the address is correct and that you have the necessary privileges." xml:space="preserve">
+        <source>The SSH Tunnel was unable to connect to host (sshHost), or the request timed out.
+
+Be sure that the address is correct and that you have the necessary privileges.</source>
+        <note>SSH tunnel failed or timed out message</note>
+      </trans-unit>
+      <trans-unit id="The application ran into an issue.  Help our team fix it by describing what steps occurred to make this error appear." xml:space="preserve">
+        <source>The application ran into an issue.  Help our team fix it by describing what steps occurred to make this error appear.</source>
+        <note>Dialog text to report error</note>
+      </trans-unit>
+      <trans-unit id="This is an unregistered evaluation version of Red." xml:space="preserve">
+        <source>This is an unregistered evaluation version of Red.</source>
+        <target>Il s'agit d'une version d'évaluation non enregistrée de Red.</target>
+        <note>You can try, buy please buy.</note>
+      </trans-unit>
+      <trans-unit id="This is an unregistered evaluation version of Red.  Although the trial period does not expire, a license must be purchased for continued use.&#10;&#10;Would you like to purchase a license now?" xml:space="preserve">
+        <source>This is an unregistered evaluation version of Red.  Although the trial period does not expire, a license must be purchased for continued use.
+
+Would you like to purchase a license now?</source>
+        <note>You can try, buy please buy.</note>
+      </trans-unit>
+      <trans-unit id="Would you like to purchase a license now?" xml:space="preserve">
+        <source>Would you like to purchase a license now?</source>
+        <target>Souhaitez-vous acheter une licence maintenant?</target>
+        <note>Reiterate purchase</note>
+      </trans-unit>
+      <trans-unit id="You may want to purchase this app because Steve Jobs was insanely great." xml:space="preserve">
+        <source>You may want to purchase this app because Steve Jobs was insanely great.</source>
+        <target>Vous voudrez peut-être acheter cette application parce que Steve Jobs était incroyablement génial.</target>
+        <note>Reason to purchase</note>
+      </trans-unit>
+      <trans-unit id="You may want to purchase this app because it supports developers that write useful tools for you." xml:space="preserve">
+        <source>You may want to purchase this app because it supports developers that write useful tools for you.</source>
+        <target>Vous voudrez peut-être acheter cette application, car elle prend en charge les développeurs qui écrivent des outils utiles pour vous.</target>
+        <note>Reason to purchase</note>
+      </trans-unit>
+      <trans-unit id="You may want to purchase this app because it will help squash bugs." xml:space="preserve">
+        <source>You may want to purchase this app because it will help squash bugs.</source>
+        <target>Vous voudrez peut-être acheter cette application, car elle aidera à éliminer les bogues.</target>
+        <note>Reason to purchase</note>
+      </trans-unit>
+      <trans-unit id="You may want to purchase this app because it will lead to more features." xml:space="preserve">
+        <source>You may want to purchase this app because it will lead to more features.</source>
+        <target>Vous voudrez peut-être acheter cette application car elle conduira à plus de fonctionnalités.</target>
+        <note>Reason to purchase</note>
+      </trans-unit>
+      <trans-unit id="You may want to purchase this app because kittens are so cute." xml:space="preserve">
+        <source>You may want to purchase this app because kittens are so cute.</source>
+        <target>Vous voudrez peut-être acheter cette application parce que les chatons sont si mignons.</target>
+        <note>Reason to purchase</note>
+      </trans-unit>
+      <trans-unit id="You may want to purchase this app because this app helps you work faster." xml:space="preserve">
+        <source>You may want to purchase this app because this app helps you work faster.</source>
+        <target>Vous voudrez peut-être acheter cette application parce que les chatons sont si mignons.</target>
+        <note>Reason to purchase</note>
+      </trans-unit>
+      <trans-unit id="You may want to purchase this app because this app saves you precious time." xml:space="preserve">
+        <source>You may want to purchase this app because this app saves you precious time.</source>
+        <target>Vous voudrez peut-être acheter cette application car cette application vous fait gagner un temps précieux.</target>
+        <note>Reason to purchase</note>
+      </trans-unit>
+      <trans-unit id="You may want to purchase this app because you don't want a stale program that has abandoned development." xml:space="preserve">
+        <source>You may want to purchase this app because you don't want a stale program that has abandoned development.</source>
+        <target>Vous voudrez peut-être acheter cette application car vous ne voulez pas d'un programme périmé qui a abandonné le développement.</target>
+        <note>Reason to purchase</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Red/Base.lproj/Main.storyboard" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3" build-num="11C29"/>
+    </header>
+    <body>
+      <trans-unit id="1Bh-aY-K4Q.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1Bh-aY-K4Q";</note>
+      </trans-unit>
+      <trans-unit id="1UI-xd-hSQ.title" xml:space="preserve">
+        <source>MsgPack</source>
+        <target>MsgPack</target>
+        <note>Class = "NSMenuItem"; title = "MsgPack"; ObjectID = "1UI-xd-hSQ";</note>
+      </trans-unit>
+      <trans-unit id="1UK-8n-QPP.title" xml:space="preserve">
+        <source>Customize Toolbar…</source>
+        <target>Customize Toolbar…</target>
+        <note>Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP";</note>
+      </trans-unit>
+      <trans-unit id="1Vi-SD-Fyd.title" xml:space="preserve">
+        <source>Hash</source>
+        <target>Hash</target>
+        <note>Class = "NSMenuItem"; title = "Hash"; ObjectID = "1Vi-SD-Fyd";</note>
+      </trans-unit>
+      <trans-unit id="1Xt-HY-uBw.title" xml:space="preserve">
+        <source>Red</source>
+        <target>Red</target>
+        <note>Class = "NSMenuItem"; title = "Red"; ObjectID = "1Xt-HY-uBw";</note>
+      </trans-unit>
+      <trans-unit id="1b7-l0-nxx.title" xml:space="preserve">
+        <source>Find</source>
+        <target>Find</target>
+        <note>Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx";</note>
+      </trans-unit>
+      <trans-unit id="1rT-rB-dpa.headerCell.title" xml:space="preserve">
+        <source>Score</source>
+        <target>But</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Score"; ObjectID = "1rT-rB-dpa";</note>
+      </trans-unit>
+      <trans-unit id="2oI-Rn-ZJC.title" xml:space="preserve">
+        <source>Transformations</source>
+        <target>Transformations</target>
+        <note>Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC";</note>
+      </trans-unit>
+      <trans-unit id="2xg-rV-Iga.title" xml:space="preserve">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Class = "NSTextFieldCell"; title = "Total"; ObjectID = "2xg-rV-Iga";</note>
+      </trans-unit>
+      <trans-unit id="2za-Ih-1bl.title" xml:space="preserve">
+        <source>SERVER INFO</source>
+        <target>INFO SERVEUR</target>
+        <note>Class = "NSTextFieldCell"; title = "SERVER INFO"; ObjectID = "2za-Ih-1bl";</note>
+      </trans-unit>
+      <trans-unit id="3IN-sU-3Bg.title" xml:space="preserve">
+        <source>Spelling</source>
+        <target>Spelling</target>
+        <note>Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg";</note>
+      </trans-unit>
+      <trans-unit id="3OF-L9-Nk3.title" xml:space="preserve">
+        <source>Password:</source>
+        <target>Mot de passe:</target>
+        <note>Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "3OF-L9-Nk3";</note>
+      </trans-unit>
+      <trans-unit id="3Qa-tc-0Ax.title" xml:space="preserve">
+        <source>No Modules Loaded</source>
+        <target>Aucun module chargé</target>
+        <note>Class = "NSTextFieldCell"; title = "No Modules Loaded"; ObjectID = "3Qa-tc-0Ax";</note>
+      </trans-unit>
+      <trans-unit id="3nz-yX-y4H.headerCell.title" xml:space="preserve">
+        <source>Index</source>
+        <target>Index</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Index"; ObjectID = "3nz-yX-y4H";</note>
+      </trans-unit>
+      <trans-unit id="3rS-ZA-NoH.title" xml:space="preserve">
+        <source>Speech</source>
+        <target>Speech</target>
+        <note>Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH";</note>
+      </trans-unit>
+      <trans-unit id="3zO-4Y-0nz.title" xml:space="preserve">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Class = "NSTextFieldCell"; title = "Total"; ObjectID = "3zO-4Y-0nz";</note>
+      </trans-unit>
+      <trans-unit id="4EN-yA-p0u.title" xml:space="preserve">
+        <source>Find</source>
+        <target>Find</target>
+        <note>Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u";</note>
+      </trans-unit>
+      <trans-unit id="4J7-dP-txa.title" xml:space="preserve">
+        <source>Enter Full Screen</source>
+        <target>Enter Full Screen</target>
+        <note>Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa";</note>
+      </trans-unit>
+      <trans-unit id="4Uh-wd-mV9.title" xml:space="preserve">
+        <source>Scripts</source>
+        <target>Scripts</target>
+        <note>Class = "NSMenuItem"; title = "Scripts"; ObjectID = "4Uh-wd-mV9";</note>
+      </trans-unit>
+      <trans-unit id="4bO-Pm-tAX.title" xml:space="preserve">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Class = "NSTextFieldCell"; title = "Total"; ObjectID = "4bO-Pm-tAX";</note>
+      </trans-unit>
+      <trans-unit id="4fY-fY-a4N.title" xml:space="preserve">
+        <source>Show Slow Log...</source>
+        <note>Class = "NSMenuItem"; title = "Show Slow Log..."; ObjectID = "4fY-fY-a4N";</note>
+      </trans-unit>
+      <trans-unit id="4sb-4s-VLi.title" xml:space="preserve">
+        <source>Quit Red</source>
+        <target>Quit Red</target>
+        <note>Class = "NSMenuItem"; title = "Quit Red"; ObjectID = "4sb-4s-VLi";</note>
+      </trans-unit>
+      <trans-unit id="5BD-Ch-NF2.title" xml:space="preserve">
+        <source>Set</source>
+        <target>Set</target>
+        <note>Class = "NSMenuItem"; title = "Set"; ObjectID = "5BD-Ch-NF2";</note>
+      </trans-unit>
+      <trans-unit id="5Hx-hB-Vby.title" xml:space="preserve">
+        <source>Database</source>
+        <target>Base de données</target>
+        <note>Class = "NSMenu"; title = "Database"; ObjectID = "5Hx-hB-Vby";</note>
+      </trans-unit>
+      <trans-unit id="5QF-Oa-p0T.title" xml:space="preserve">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T";</note>
+      </trans-unit>
+      <trans-unit id="5Ww-mj-BHK.title" xml:space="preserve">
+        <source>Connect</source>
+        <target>Se connecter</target>
+        <note>Class = "NSButtonCell"; title = "Connect"; ObjectID = "5Ww-mj-BHK";</note>
+      </trans-unit>
+      <trans-unit id="5kV-Vb-QxS.title" xml:space="preserve">
+        <source>About Red</source>
+        <target>À propos de Red</target>
+        <note>Class = "NSMenuItem"; title = "About Red"; ObjectID = "5kV-Vb-QxS";</note>
+      </trans-unit>
+      <trans-unit id="5sj-nr-3mp.title" xml:space="preserve">
+        <source>Sorted Set</source>
+        <target>Sorted Set</target>
+        <note>Class = "NSMenuItem"; title = "Sorted Set"; ObjectID = "5sj-nr-3mp";</note>
+      </trans-unit>
+      <trans-unit id="6VT-kp-vB1.title" xml:space="preserve">
+        <source>Unlock Red</source>
+        <target>Unlock Red</target>
+        <note>Class = "NSTextFieldCell"; title = "Unlock Red"; ObjectID = "6VT-kp-vB1";</note>
+      </trans-unit>
+      <trans-unit id="6dh-zS-Vam.title" xml:space="preserve">
+        <source>Redo</source>
+        <target>Redo</target>
+        <note>Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam";</note>
+      </trans-unit>
+      <trans-unit id="6yF-5F-MvW.title" xml:space="preserve">
+        <source>Rename</source>
+        <target>Remove</target>
+        <note>Class = "NSMenuItem"; title = "Rename"; ObjectID = "6yF-5F-MvW";</note>
+      </trans-unit>
+      <trans-unit id="7Tx-gm-bYm.ibShadowedToolTip" xml:space="preserve">
+        <source>Add a key</source>
+        <target>Add a key</target>
+        <note>Class = "NSPopUpButton"; ibShadowedToolTip = "Add a key"; ObjectID = "7Tx-gm-bYm";</note>
+      </trans-unit>
+      <trans-unit id="7fP-1K-tF9.title" xml:space="preserve">
+        <source>Set</source>
+        <target>Set</target>
+        <note>Class = "NSMenuItem"; title = "Set"; ObjectID = "7fP-1K-tF9";</note>
+      </trans-unit>
+      <trans-unit id="8G3-62-xfc.headerCell.title" xml:space="preserve">
+        <source>Value</source>
+        <target>Value</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "8G3-62-xfc";</note>
+      </trans-unit>
+      <trans-unit id="9aZ-v3-eIx.title" xml:space="preserve">
+        <source>SSH Port:</source>
+        <target>Port SSH:</target>
+        <note>Class = "NSTextFieldCell"; title = "SSH Port:"; ObjectID = "9aZ-v3-eIx";</note>
+      </trans-unit>
+      <trans-unit id="9ic-FL-obx.title" xml:space="preserve">
+        <source>Substitutions</source>
+        <target>Substitutions</target>
+        <note>Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx";</note>
+      </trans-unit>
+      <trans-unit id="9wn-8z-35y.title" xml:space="preserve">
+        <source>Red Purchases</source>
+        <target>Red Purchases</target>
+        <note>Class = "NSWindow"; title = "Red Purchases"; ObjectID = "9wn-8z-35y";</note>
+      </trans-unit>
+      <trans-unit id="9yt-4B-nSM.title" xml:space="preserve">
+        <source>Smart Copy/Paste</source>
+        <target>Smart Copy/Paste</target>
+        <note>Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM";</note>
+      </trans-unit>
+      <trans-unit id="9z8-0l-8Wv.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9z8-0l-8Wv";</note>
+      </trans-unit>
+      <trans-unit id="13R-Ko-GXB.title" xml:space="preserve">
+        <source>Enter License</source>
+        <target>Enter License</target>
+        <note>Class = "NSWindow"; title = "Enter License"; ObjectID = "13R-Ko-GXB";</note>
+      </trans-unit>
+      <trans-unit id="26r-hy-6Tq.title" xml:space="preserve">
+        <source>SSH Host:</source>
+        <target>Hôte SSH:</target>
+        <note>Class = "NSTextFieldCell"; title = "SSH Host:"; ObjectID = "26r-hy-6Tq";</note>
+      </trans-unit>
+      <trans-unit id="31l-oE-ydi.title" xml:space="preserve">
+        <source>Jump to Console</source>
+        <note>Class = "NSMenuItem"; title = "Jump to Console"; ObjectID = "31l-oE-ydi";</note>
+      </trans-unit>
+      <trans-unit id="37m-1n-YNA.ibShadowedToolTip" xml:space="preserve">
+        <source>Truncate Logs</source>
+        <target>Tronquer les journaux</target>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Truncate Logs"; ObjectID = "37m-1n-YNA";</note>
+      </trans-unit>
+      <trans-unit id="38L-Th-Cc2.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "38L-Th-Cc2";</note>
+      </trans-unit>
+      <trans-unit id="49A-fV-YmL.title" xml:space="preserve">
+        <source>Subscribed</source>
+        <target>Subscribed</target>
+        <note>Class = "NSTextFieldCell"; title = "Subscribed"; ObjectID = "49A-fV-YmL";</note>
+      </trans-unit>
+      <trans-unit id="59g-55-OaG.title" xml:space="preserve">
+        <source>Create a key</source>
+        <target>Create a key</target>
+        <note>Class = "NSTextFieldCell"; title = "Create a key"; ObjectID = "59g-55-OaG";</note>
+      </trans-unit>
+      <trans-unit id="78Y-hA-62v.title" xml:space="preserve">
+        <source>Correct Spelling Automatically</source>
+        <target>Correct Spelling Automatically</target>
+        <note>Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v";</note>
+      </trans-unit>
+      <trans-unit id="79E-94-YU9.title" xml:space="preserve">
+        <source>Box</source>
+        <target>Box</target>
+        <note>Class = "NSBox"; title = "Box"; ObjectID = "79E-94-YU9";</note>
+      </trans-unit>
+      <trans-unit id="567-zZ-Fqk.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "567-zZ-Fqk";</note>
+      </trans-unit>
+      <trans-unit id="API-3D-Gvt.title" xml:space="preserve">
+        <source>Box</source>
+        <target>Box</target>
+        <note>Class = "NSBox"; title = "Box"; ObjectID = "API-3D-Gvt";</note>
+      </trans-unit>
+      <trans-unit id="AYu-sK-qS6.title" xml:space="preserve">
+        <source>Main Menu</source>
+        <target>Main Menu</target>
+        <note>Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6";</note>
+      </trans-unit>
+      <trans-unit id="B2F-u5-jwy.title" xml:space="preserve">
+        <source>Expiry Date</source>
+        <target>Expiry Date</target>
+        <note>Class = "NSTextFieldCell"; title = "Expiry Date"; ObjectID = "B2F-u5-jwy";</note>
+      </trans-unit>
+      <trans-unit id="B68-e5-4lh.title" xml:space="preserve">
+        <source>1.0</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "1.0"; ObjectID = "B68-e5-4lh";</note>
+      </trans-unit>
+      <trans-unit id="BZC-bl-MoM.title" xml:space="preserve">
+        <source>Show Console</source>
+        <note>Class = "NSMenuItem"; title = "Show Console"; ObjectID = "BZC-bl-MoM";</note>
+      </trans-unit>
+      <trans-unit id="BxE-Dh-FPL.title" xml:space="preserve">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "NSButtonCell"; title = "1"; ObjectID = "BxE-Dh-FPL";</note>
+      </trans-unit>
+      <trans-unit id="Cbe-Tw-m84.title" xml:space="preserve">
+        <source>Uptime</source>
+        <target>Uptime</target>
+        <note>Class = "NSTextFieldCell"; title = "Uptime"; ObjectID = "Cbe-Tw-m84";</note>
+      </trans-unit>
+      <trans-unit id="Chb-kp-ySS.headerCell.title" xml:space="preserve">
+        <source>Product</source>
+        <target>Product</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Product"; ObjectID = "Chb-kp-ySS";</note>
+      </trans-unit>
+      <trans-unit id="DMl-xA-OZH.title" xml:space="preserve">
+        <source>Expires:</source>
+        <target>Expire:</target>
+        <note>Class = "NSTextFieldCell"; title = "Expires:"; ObjectID = "DMl-xA-OZH";</note>
+      </trans-unit>
+      <trans-unit id="DQp-gn-pp4.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DQp-gn-pp4";</note>
+      </trans-unit>
+      <trans-unit id="DVo-aG-piG.title" xml:space="preserve">
+        <source>Close</source>
+        <target>Fermer</target>
+        <note>Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG";</note>
+      </trans-unit>
+      <trans-unit id="Dqy-pE-vqD.title" xml:space="preserve">
+        <source>More Apps by Echodot...</source>
+        <target>Plus d'apps par Echodot...</target>
+        <note>Class = "NSMenuItem"; title = "More Apps by Echodot..."; ObjectID = "Dqy-pE-vqD";</note>
+      </trans-unit>
+      <trans-unit id="Dv1-io-Yv7.title" xml:space="preserve">
+        <source>Spelling and Grammar</source>
+        <target>Spelling and Grammar</target>
+        <note>Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7";</note>
+      </trans-unit>
+      <trans-unit id="Ei8-hi-Den.ibExternalAccessibilityDescription" xml:space="preserve">
+        <source>SSH Redis Password Field</source>
+        <target>SSH Redis Password Field</target>
+        <note>Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "SSH Redis Password Field"; ObjectID = "Ei8-hi-Den";</note>
+      </trans-unit>
+      <trans-unit id="EpG-7g-RIi.title" xml:space="preserve">
+        <source>Provide Feedback</source>
+        <target>Provide Feedback</target>
+        <note>Class = "NSMenuItem"; title = "Provide Feedback"; ObjectID = "EpG-7g-RIi";</note>
+      </trans-unit>
+      <trans-unit id="EuT-tH-Y54.title" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "NSTextFieldCell"; title = "-"; ObjectID = "EuT-tH-Y54";</note>
+      </trans-unit>
+      <trans-unit id="F2S-fz-NVQ.title" xml:space="preserve">
+        <source>Help</source>
+        <target>Help</target>
+        <note>Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ";</note>
+      </trans-unit>
+      <trans-unit id="F64-z6-a5r.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "F64-z6-a5r";</note>
+      </trans-unit>
+      <trans-unit id="FEO-ce-fIb.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FEO-ce-fIb";</note>
+      </trans-unit>
+      <trans-unit id="FJN-NV-dpW.title" xml:space="preserve">
+        <source>New</source>
+        <target>New</target>
+        <note>Class = "NSMenu"; title = "New"; ObjectID = "FJN-NV-dpW";</note>
+      </trans-unit>
+      <trans-unit id="FVu-EH-1Mc.title" xml:space="preserve">
+        <source>SSH User:</source>
+        <target>Utilisateur SSH:</target>
+        <note>Class = "NSTextFieldCell"; title = "SSH User:"; ObjectID = "FVu-EH-1Mc";</note>
+      </trans-unit>
+      <trans-unit id="FeM-D8-WVr.title" xml:space="preserve">
+        <source>Substitutions</source>
+        <target>Substitutions</target>
+        <note>Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr";</note>
+      </trans-unit>
+      <trans-unit id="Fhm-BU-Bhr.title" xml:space="preserve">
+        <source>Database</source>
+        <target>Base de données</target>
+        <note>Class = "NSMenuItem"; title = "Database"; ObjectID = "Fhm-BU-Bhr";</note>
+      </trans-unit>
+      <trans-unit id="FjG-pL-l8T.title" xml:space="preserve">
+        <source>Product description</source>
+        <target>Product description</target>
+        <note>Class = "NSTextFieldCell"; title = "Product description"; ObjectID = "FjG-pL-l8T";</note>
+      </trans-unit>
+      <trans-unit id="G84-YA-HKA.title" xml:space="preserve">
+        <source>Hard Reload Keys</source>
+        <target>Hard Reload Keys</target>
+        <note>Class = "NSMenuItem"; title = "Hard Reload Keys"; ObjectID = "G84-YA-HKA";</note>
+      </trans-unit>
+      <trans-unit id="GDL-cz-Wxu.title" xml:space="preserve">
+        <source>New Tab</source>
+        <target>New Tab</target>
+        <note>Class = "NSMenuItem"; title = "New Tab"; ObjectID = "GDL-cz-Wxu";</note>
+      </trans-unit>
+      <trans-unit id="GMA-HJ-RJa.title" xml:space="preserve">
+        <source>Box</source>
+        <note>Class = "NSBox"; title = "Box"; ObjectID = "GMA-HJ-RJa";</note>
+      </trans-unit>
+      <trans-unit id="GY2-q2-azT.title" xml:space="preserve">
+        <source>New</source>
+        <target>New</target>
+        <note>Class = "NSMenuItem"; title = "New"; ObjectID = "GY2-q2-azT";</note>
+      </trans-unit>
+      <trans-unit id="GuC-ST-uaB.headerCell.title" xml:space="preserve">
+        <source>Key</source>
+        <target>Key</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "GuC-ST-uaB";</note>
+      </trans-unit>
+      <trans-unit id="Gvo-zV-M2G.title" xml:space="preserve">
+        <source>Release Notes</source>
+        <target>Release Notes</target>
+        <note>Class = "NSMenuItem"; title = "Release Notes"; ObjectID = "Gvo-zV-M2G";</note>
+      </trans-unit>
+      <trans-unit id="H4Z-L3-EOq.title" xml:space="preserve">
+        <source>Show/Hide Detail</source>
+        <target>Show/Hide Detail</target>
+        <note>Class = "NSMenuItem"; title = "Show/Hide Detail"; ObjectID = "H4Z-L3-EOq";</note>
+      </trans-unit>
+      <trans-unit id="H8h-7b-M4v.title" xml:space="preserve">
+        <source>View</source>
+        <target>View</target>
+        <note>Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v";</note>
+      </trans-unit>
+      <trans-unit id="H23-bg-e1w.label" xml:space="preserve">
+        <source>Database</source>
+        <target>Database</target>
+        <note>Class = "NSToolbarItem"; label = "Database"; ObjectID = "H23-bg-e1w";</note>
+      </trans-unit>
+      <trans-unit id="H23-bg-e1w.paletteLabel" xml:space="preserve">
+        <source>Database</source>
+        <target>Database</target>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Database"; ObjectID = "H23-bg-e1w";</note>
+      </trans-unit>
+      <trans-unit id="H23-bg-e1w.toolTip" xml:space="preserve">
+        <source>Database</source>
+        <note>Class = "NSToolbarItem"; toolTip = "Database"; ObjectID = "H23-bg-e1w";</note>
+      </trans-unit>
+      <trans-unit id="HFQ-gK-NFA.title" xml:space="preserve">
+        <source>Text Replacement</source>
+        <target>Text Replacement</target>
+        <note>Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA";</note>
+      </trans-unit>
+      <trans-unit id="HFo-cy-zxI.title" xml:space="preserve">
+        <source>Show Spelling and Grammar</source>
+        <target>Show Spelling and Grammar</target>
+        <note>Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI";</note>
+      </trans-unit>
+      <trans-unit id="HGF-g3-KQF.title" xml:space="preserve">
+        <source>Redis Version</source>
+        <target>Redis Version</target>
+        <note>Class = "NSTextFieldCell"; title = "Redis Version"; ObjectID = "HGF-g3-KQF";</note>
+      </trans-unit>
+      <trans-unit id="HUT-KZ-IaZ.title" xml:space="preserve">
+        <source>Import...</source>
+        <target>Import...</target>
+        <note>Class = "NSMenuItem"; title = "Import..."; ObjectID = "HUT-KZ-IaZ";</note>
+      </trans-unit>
+      <trans-unit id="HdW-S6-sSX.title" xml:space="preserve">
+        <source>Sorted Set</source>
+        <target>Sorted Set</target>
+        <note>Class = "NSMenuItem"; title = "Sorted Set"; ObjectID = "HdW-S6-sSX";</note>
+      </trans-unit>
+      <trans-unit id="Hmk-P5-3Z0.title" xml:space="preserve">
+        <source>List</source>
+        <target>List</target>
+        <note>Class = "NSMenuItem"; title = "List"; ObjectID = "Hmk-P5-3Z0";</note>
+      </trans-unit>
+      <trans-unit id="HyV-fh-RgO.title" xml:space="preserve">
+        <source>View</source>
+        <target>View</target>
+        <note>Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO";</note>
+      </trans-unit>
+      <trans-unit id="Hyf-MM-yga.title" xml:space="preserve">
+        <source>More Apps by Echodot</source>
+        <target>More Apps by Echodot</target>
+        <note>Class = "NSMenuItem"; title = "More Apps by Echodot"; ObjectID = "Hyf-MM-yga";</note>
+      </trans-unit>
+      <trans-unit id="IBK-HP-Fxa.title" xml:space="preserve">
+        <source>Deselect All</source>
+        <target>Deselect All</target>
+        <note>Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "IBK-HP-Fxa";</note>
+      </trans-unit>
+      <trans-unit id="IHv-HB-Op3.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IHv-HB-Op3";</note>
+      </trans-unit>
+      <trans-unit id="IML-ue-tel.title" xml:space="preserve">
+        <source>Name:</source>
+        <target>Nom:</target>
+        <note>Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "IML-ue-tel";</note>
+      </trans-unit>
+      <trans-unit id="IQv-IB-iLA.title" xml:space="preserve">
+        <source>Red</source>
+        <target>Red</target>
+        <note>Class = "NSWindow"; title = "Red"; ObjectID = "IQv-IB-iLA";</note>
+      </trans-unit>
+      <trans-unit id="ITb-vc-9jO.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ITb-vc-9jO";</note>
+      </trans-unit>
+      <trans-unit id="IX6-Vi-VeT.ibShadowedIsNilPlaceholder" xml:space="preserve">
+        <source>6379</source>
+        <note>Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "6379"; ObjectID = "IX6-Vi-VeT";</note>
+      </trans-unit>
+      <trans-unit id="Iv9-Em-yte.title" xml:space="preserve">
+        <source>19%</source>
+        <target>19%</target>
+        <note>Class = "NSTextFieldCell"; title = "19%"; ObjectID = "Iv9-Em-yte";</note>
+      </trans-unit>
+      <trans-unit id="KJI-Xf-Bor.title" xml:space="preserve">
+        <source>Key Name:</source>
+        <target>Key Name:</target>
+        <note>Class = "NSTextFieldCell"; title = "Key Name:"; ObjectID = "KJI-Xf-Bor";</note>
+      </trans-unit>
+      <trans-unit id="KPP-kl-EaJ.title" xml:space="preserve">
+        <source>Remove</source>
+        <note>Class = "NSMenuItem"; title = "Remove"; ObjectID = "KPP-kl-EaJ";</note>
+      </trans-unit>
+      <trans-unit id="KWZ-9L-811.title" xml:space="preserve">
+        <source>+</source>
+        <target>+</target>
+        <note>Class = "NSMenuItem"; title = "+"; ObjectID = "KWZ-9L-811";</note>
+      </trans-unit>
+      <trans-unit id="KXS-kv-ANf.placeholderString" xml:space="preserve">
+        <source>6379</source>
+        <target>6379</target>
+        <note>Class = "NSTextFieldCell"; placeholderString = "6379"; ObjectID = "KXS-kv-ANf";</note>
+      </trans-unit>
+      <trans-unit id="KZl-JX-3fi.title" xml:space="preserve">
+        <source>Hex</source>
+        <target>Hex</target>
+        <note>Class = "NSMenuItem"; title = "Hex"; ObjectID = "KZl-JX-3fi";</note>
+      </trans-unit>
+      <trans-unit id="Kd2-mp-pUS.title" xml:space="preserve">
+        <source>Show All</source>
+        <target>Show All</target>
+        <note>Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS";</note>
+      </trans-unit>
+      <trans-unit id="Kg2-X2-DaQ.title" xml:space="preserve">
+        <source>Export...</source>
+        <target>Export...</target>
+        <note>Class = "NSMenuItem"; title = "Export..."; ObjectID = "Kg2-X2-DaQ";</note>
+      </trans-unit>
+      <trans-unit id="KgX-Ln-4kd.title" xml:space="preserve">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Class = "NSTextFieldCell"; title = "Total"; ObjectID = "KgX-Ln-4kd";</note>
+      </trans-unit>
+      <trans-unit id="Kh9-7c-x8L.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Kh9-7c-x8L";</note>
+      </trans-unit>
+      <trans-unit id="Kkt-rd-rra.title" xml:space="preserve">
+        <source>Box</source>
+        <target>Box</target>
+        <note>Class = "NSBox"; title = "Box"; ObjectID = "Kkt-rd-rra";</note>
+      </trans-unit>
+      <trans-unit id="LE2-aR-0XJ.title" xml:space="preserve">
+        <source>Bring All to Front</source>
+        <target>Bring All to Front</target>
+        <note>Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ";</note>
+      </trans-unit>
+      <trans-unit id="LLk-6k-XgP.title" xml:space="preserve">
+        <source>Plain Text</source>
+        <target>Plain Text</target>
+        <note>Class = "NSMenuItem"; title = "Plain Text"; ObjectID = "LLk-6k-XgP";</note>
+      </trans-unit>
+      <trans-unit id="Lin-ns-0KT.title" xml:space="preserve">
+        <source>Redis Host:</source>
+        <target>Hôte Redis:</target>
+        <note>Class = "NSTextFieldCell"; title = "Redis Host:"; ObjectID = "Lin-ns-0KT";</note>
+      </trans-unit>
+      <trans-unit id="LtW-CN-CXM.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LtW-CN-CXM";</note>
+      </trans-unit>
+      <trans-unit id="NMo-om-nkz.title" xml:space="preserve">
+        <source>Services</source>
+        <target>Services</target>
+        <note>Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz";</note>
+      </trans-unit>
+      <trans-unit id="NlD-U6-Wc8.ibShadowedIsNilPlaceholder" xml:space="preserve">
+        <source>6379</source>
+        <note>Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "6379"; ObjectID = "NlD-U6-Wc8";</note>
+      </trans-unit>
+      <trans-unit id="OY7-WF-poV.title" xml:space="preserve">
+        <source>Minimize</source>
+        <target>Minimize</target>
+        <note>Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV";</note>
+      </trans-unit>
+      <trans-unit id="Olw-nP-bQN.title" xml:space="preserve">
+        <source>Hide Red</source>
+        <target>Hide Red</target>
+        <note>Class = "NSMenuItem"; title = "Hide Red"; ObjectID = "Olw-nP-bQN";</note>
+      </trans-unit>
+      <trans-unit id="OoN-Xk-lC1.title" xml:space="preserve">
+        <source>Duplicate</source>
+        <note>Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "OoN-Xk-lC1";</note>
+      </trans-unit>
+      <trans-unit id="OwM-mh-QMV.title" xml:space="preserve">
+        <source>Find Previous</source>
+        <target>Find Previous</target>
+        <note>Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV";</note>
+      </trans-unit>
+      <trans-unit id="Oyz-dy-DGm.title" xml:space="preserve">
+        <source>Stop Speaking</source>
+        <target>Stop Speaking</target>
+        <note>Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm";</note>
+      </trans-unit>
+      <trans-unit id="PSQ-aN-acV.title" xml:space="preserve">
+        <source>Remove</source>
+        <note>Class = "NSMenuItem"; title = "Remove"; ObjectID = "PSQ-aN-acV";</note>
+      </trans-unit>
+      <trans-unit id="PiO-Wf-how.label" xml:space="preserve">
+        <source>SSH</source>
+        <target>SSH</target>
+        <note>Class = "NSTabViewItem"; label = "SSH"; ObjectID = "PiO-Wf-how";</note>
+      </trans-unit>
+      <trans-unit id="Q5m-ri-8Nd.title" xml:space="preserve">
+        <source>Password:</source>
+        <target>Mot de passe:</target>
+        <note>Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "Q5m-ri-8Nd";</note>
+      </trans-unit>
+      <trans-unit id="QAt-JF-cWO.label" xml:space="preserve">
+        <source>Slow Log</source>
+        <note>Class = "NSToolbarItem"; label = "Slow Log"; ObjectID = "QAt-JF-cWO";</note>
+      </trans-unit>
+      <trans-unit id="QAt-JF-cWO.paletteLabel" xml:space="preserve">
+        <source>Slow Log</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Slow Log"; ObjectID = "QAt-JF-cWO";</note>
+      </trans-unit>
+      <trans-unit id="QAt-JF-cWO.toolTip" xml:space="preserve">
+        <source>Open Slog Log</source>
+        <note>Class = "NSToolbarItem"; toolTip = "Open Slog Log"; ObjectID = "QAt-JF-cWO";</note>
+      </trans-unit>
+      <trans-unit id="R4o-n2-Eq4.title" xml:space="preserve">
+        <source>Zoom</source>
+        <target>Zoom</target>
+        <note>Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4";</note>
+      </trans-unit>
+      <trans-unit id="Rfq-Zq-wDI.title" xml:space="preserve">
+        <source>String</source>
+        <target>String</target>
+        <note>Class = "NSMenuItem"; title = "String"; ObjectID = "Rfq-Zq-wDI";</note>
+      </trans-unit>
+      <trans-unit id="RgZ-UT-nZ4.title" xml:space="preserve">
+        <source>Copy Key Name</source>
+        <note>Class = "NSMenuItem"; title = "Copy Key Name"; ObjectID = "RgZ-UT-nZ4";</note>
+      </trans-unit>
+      <trans-unit id="Rkt-ch-FVS.headerCell.title" xml:space="preserve">
+        <source>ID</source>
+        <target>ID</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "ID"; ObjectID = "Rkt-ch-FVS";</note>
+      </trans-unit>
+      <trans-unit id="RpP-FI-Zm5.title" xml:space="preserve">
+        <source>MODULES</source>
+        <target>MODULES</target>
+        <note>Class = "NSTextFieldCell"; title = "MODULES"; ObjectID = "RpP-FI-Zm5";</note>
+      </trans-unit>
+      <trans-unit id="Ruw-6m-B2m.title" xml:space="preserve">
+        <source>Select All</source>
+        <target>Select All</target>
+        <note>Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m";</note>
+      </trans-unit>
+      <trans-unit id="Rz1-Di-qBw.title" xml:space="preserve">
+        <source>Key</source>
+        <target>Key</target>
+        <note>Class = "NSMenu"; title = "Key"; ObjectID = "Rz1-Di-qBw";</note>
+      </trans-unit>
+      <trans-unit id="S0p-oC-mLd.title" xml:space="preserve">
+        <source>Jump to Selection</source>
+        <target>Jump to Selection</target>
+        <note>Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd";</note>
+      </trans-unit>
+      <trans-unit id="SG9-UV-9e8.title" xml:space="preserve">
+        <source>Flush All Databases...</source>
+        <target>Flush All Databases...</target>
+        <note>Class = "NSMenuItem"; title = "Flush All Databases..."; ObjectID = "SG9-UV-9e8";</note>
+      </trans-unit>
+      <trans-unit id="SM6-tq-G1v.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "SM6-tq-G1v";</note>
+      </trans-unit>
+      <trans-unit id="SWL-HT-h1E.title" xml:space="preserve">
+        <source>Copyright © Echodot LLC 2019</source>
+        <target>Copyright © Echodot LLC 2019</target>
+        <note>Class = "NSTextFieldCell"; title = "Copyright © Echodot LLC 2019"; ObjectID = "SWL-HT-h1E";</note>
+      </trans-unit>
+      <trans-unit id="T4z-3e-6hY.title" xml:space="preserve">
+        <source>List</source>
+        <target>List</target>
+        <note>Class = "NSMenuItem"; title = "List"; ObjectID = "T4z-3e-6hY";</note>
+      </trans-unit>
+      <trans-unit id="TBw-pm-eRb.headerCell.title" xml:space="preserve">
+        <source>Set Value</source>
+        <target>Set Value</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Set Value"; ObjectID = "TBw-pm-eRb";</note>
+      </trans-unit>
+      <trans-unit id="TZ6-Bc-hG4.title" xml:space="preserve">
+        <source>Provide Feedback...</source>
+        <target>Provide Feedback...</target>
+        <note>Class = "NSMenuItem"; title = "Provide Feedback..."; ObjectID = "TZ6-Bc-hG4";</note>
+      </trans-unit>
+      <trans-unit id="Td7-aD-5lo.title" xml:space="preserve">
+        <source>Window</source>
+        <target>Window</target>
+        <note>Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo";</note>
+      </trans-unit>
+      <trans-unit id="UEZ-Bs-lqG.title" xml:space="preserve">
+        <source>Capitalize</source>
+        <target>Capitalize</target>
+        <note>Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG";</note>
+      </trans-unit>
+      <trans-unit id="UaH-PK-6hU.title" xml:space="preserve">
+        <source>String</source>
+        <target>String</target>
+        <note>Class = "NSMenuItem"; title = "String"; ObjectID = "UaH-PK-6hU";</note>
+      </trans-unit>
+      <trans-unit id="V37-Vu-7Cd.title" xml:space="preserve">
+        <source>String</source>
+        <target>String</target>
+        <note>Class = "NSMenuItem"; title = "String"; ObjectID = "V37-Vu-7Cd";</note>
+      </trans-unit>
+      <trans-unit id="VNL-Ow-nbN.label" xml:space="preserve">
+        <source>Server Info</source>
+        <note>Class = "NSToolbarItem"; label = "Server Info"; ObjectID = "VNL-Ow-nbN";</note>
+      </trans-unit>
+      <trans-unit id="VNL-Ow-nbN.paletteLabel" xml:space="preserve">
+        <source>Server Info</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Server Info"; ObjectID = "VNL-Ow-nbN";</note>
+      </trans-unit>
+      <trans-unit id="VNL-Ow-nbN.toolTip" xml:space="preserve">
+        <source>Server Info</source>
+        <note>Class = "NSToolbarItem"; toolTip = "Server Info"; ObjectID = "VNL-Ow-nbN";</note>
+      </trans-unit>
+      <trans-unit id="VWX-Rq-wGo.title" xml:space="preserve">
+        <source>Enter License Key...</source>
+        <target>Enter License Key...</target>
+        <note>Class = "NSMenuItem"; title = "Enter License Key..."; ObjectID = "VWX-Rq-wGo";</note>
+      </trans-unit>
+      <trans-unit id="Vdr-fp-XzO.title" xml:space="preserve">
+        <source>Hide Others</source>
+        <target>Hide Others</target>
+        <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
+      </trans-unit>
+      <trans-unit id="VeP-aI-Ts0.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "VeP-aI-Ts0";</note>
+      </trans-unit>
+      <trans-unit id="Vuf-rL-mQ1.headerCell.title" xml:space="preserve">
+        <source>Description</source>
+        <target>Description</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Description"; ObjectID = "Vuf-rL-mQ1";</note>
+      </trans-unit>
+      <trans-unit id="W48-6f-4Dl.title" xml:space="preserve">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl";</note>
+      </trans-unit>
+      <trans-unit id="WQl-v7-j2U.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "WQl-v7-j2U";</note>
+      </trans-unit>
+      <trans-unit id="WRI-V5-myZ.ibShadowedToolTip" xml:space="preserve">
+        <source>Reload keys now</source>
+        <target>Reload keys now</target>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Reload keys now"; ObjectID = "WRI-V5-myZ";</note>
+      </trans-unit>
+      <trans-unit id="WZy-GX-ucA.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "WZy-GX-ucA";</note>
+      </trans-unit>
+      <trans-unit id="Was-JA-tGl.title" xml:space="preserve">
+        <source>New Window</source>
+        <target>New Window</target>
+        <note>Class = "NSMenuItem"; title = "New Window"; ObjectID = "Was-JA-tGl";</note>
+      </trans-unit>
+      <trans-unit id="Wit-CE-BoS.title" xml:space="preserve">
+        <source>Reload Keys</source>
+        <target>Reload Keys</target>
+        <note>Class = "NSMenuItem"; title = "Reload Keys"; ObjectID = "Wit-CE-BoS";</note>
+      </trans-unit>
+      <trans-unit id="WyG-k3-0uW.title" xml:space="preserve">
+        <source>Rename</source>
+        <note>Class = "NSMenuItem"; title = "Rename"; ObjectID = "WyG-k3-0uW";</note>
+      </trans-unit>
+      <trans-unit id="XCU-b9-RmE.ibShadowedToolTip" xml:space="preserve">
+        <source>Live Update</source>
+        <target>Live Update</target>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Live Update"; ObjectID = "XCU-b9-RmE";</note>
+      </trans-unit>
+      <trans-unit id="Xbj-Qt-Cca.title" xml:space="preserve">
+        <source>New Pub/Sub Tab...</source>
+        <target>New Pub/Sub Tab...</target>
+        <note>Class = "NSMenuItem"; title = "New Pub/Sub Tab..."; ObjectID = "Xbj-Qt-Cca";</note>
+      </trans-unit>
+      <trans-unit id="XoH-st-6NR.title" xml:space="preserve">
+        <source>List</source>
+        <target>List</target>
+        <note>Class = "NSMenuItem"; title = "List"; ObjectID = "XoH-st-6NR";</note>
+      </trans-unit>
+      <trans-unit id="Xz5-n4-O0W.title" xml:space="preserve">
+        <source>Find…</source>
+        <target>Find…</target>
+        <note>Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W";</note>
+      </trans-unit>
+      <trans-unit id="Y7b-gs-yvX.title" xml:space="preserve">
+        <source>Flush Database...</source>
+        <target>Flush Database...</target>
+        <note>Class = "NSMenuItem"; title = "Flush Database..."; ObjectID = "Y7b-gs-yvX";</note>
+      </trans-unit>
+      <trans-unit id="YEy-JH-Tfz.title" xml:space="preserve">
+        <source>Find and Replace…</source>
+        <target>Find and Replace…</target>
+        <note>Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz";</note>
+      </trans-unit>
+      <trans-unit id="YOU-Wg-TnM.title" xml:space="preserve">
+        <source>Disconnect</source>
+        <target>Disconnect</target>
+        <note>Class = "NSMenuItem"; title = "Disconnect"; ObjectID = "YOU-Wg-TnM";</note>
+      </trans-unit>
+      <trans-unit id="YaG-37-jt7.ibShadowedToolTip" xml:space="preserve">
+        <source>Expiring/Total Keys</source>
+        <target>Expiring/Total Keys</target>
+        <note>Class = "NSTextField"; ibShadowedToolTip = "Expiring/Total Keys"; ObjectID = "YaG-37-jt7";</note>
+      </trans-unit>
+      <trans-unit id="Ynk-f8-cLZ.title" xml:space="preserve">
+        <source>Start Speaking</source>
+        <target>Start Speaking</target>
+        <note>Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ";</note>
+      </trans-unit>
+      <trans-unit id="Zbv-7k-WHB.title" xml:space="preserve">
+        <source>Scripts</source>
+        <target>Scripts</target>
+        <note>Class = "NSMenu"; title = "Scripts"; ObjectID = "Zbv-7k-WHB";</note>
+      </trans-unit>
+      <trans-unit id="Zve-I5-fQP.title" xml:space="preserve">
+        <source>Stream Controller</source>
+        <target>Stream Controller</target>
+        <note>Class = "NSViewController"; title = "Stream Controller"; ObjectID = "Zve-I5-fQP";</note>
+      </trans-unit>
+      <trans-unit id="aC0-nb-a8f.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aC0-nb-a8f";</note>
+      </trans-unit>
+      <trans-unit id="aNW-jR-M4R.title" xml:space="preserve">
+        <source>Check for Updates...</source>
+        <target>Check for Updates...</target>
+        <note>Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "aNW-jR-M4R";</note>
+      </trans-unit>
+      <trans-unit id="aUF-d1-5bR.title" xml:space="preserve">
+        <source>Window</source>
+        <target>Window</target>
+        <note>Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR";</note>
+      </trans-unit>
+      <trans-unit id="aZL-xn-Fgf.placeholderString" xml:space="preserve">
+        <source>6379</source>
+        <target>6379</target>
+        <note>Class = "NSTextFieldCell"; placeholderString = "6379"; ObjectID = "aZL-xn-Fgf";</note>
+      </trans-unit>
+      <trans-unit id="aeO-g8-V4d.title" xml:space="preserve">
+        <source>HEADER CELL</source>
+        <note>Class = "NSTextFieldCell"; title = "HEADER CELL"; ObjectID = "aeO-g8-V4d";</note>
+      </trans-unit>
+      <trans-unit id="aq4-qb-qsf.title" xml:space="preserve">
+        <source>Redis Host:</source>
+        <target>Hôte Redis:</target>
+        <note>Class = "NSTextFieldCell"; title = "Redis Host:"; ObjectID = "aq4-qb-qsf";</note>
+      </trans-unit>
+      <trans-unit id="ayN-pe-whq.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ayN-pe-whq";</note>
+      </trans-unit>
+      <trans-unit id="ayP-ii-L75.title" xml:space="preserve">
+        <source>Sorted Set</source>
+        <target>Sorted Set</target>
+        <note>Class = "NSMenuItem"; title = "Sorted Set"; ObjectID = "ayP-ii-L75";</note>
+      </trans-unit>
+      <trans-unit id="bQa-VD-g0w.title" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "NSTextFieldCell"; title = "-"; ObjectID = "bQa-VD-g0w";</note>
+      </trans-unit>
+      <trans-unit id="bRf-8M-4cY.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bRf-8M-4cY";</note>
+      </trans-unit>
+      <trans-unit id="bb7-Ks-mP1.title" xml:space="preserve">
+        <source>ListView</source>
+        <target>ListView</target>
+        <note>Class = "NSViewController"; title = "ListView"; ObjectID = "bb7-Ks-mP1";</note>
+      </trans-unit>
+      <trans-unit id="bib-Uj-vzu.title" xml:space="preserve">
+        <source>File</source>
+        <target>File</target>
+        <note>Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu";</note>
+      </trans-unit>
+      <trans-unit id="buJ-ug-pKt.title" xml:space="preserve">
+        <source>Use Selection for Find</source>
+        <target>Use Selection for Find</target>
+        <note>Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt";</note>
+      </trans-unit>
+      <trans-unit id="c1g-Ag-cOK.title" xml:space="preserve">
+        <source>String</source>
+        <target>String</target>
+        <note>Class = "NSMenuItem"; title = "String"; ObjectID = "c1g-Ag-cOK";</note>
+      </trans-unit>
+      <trans-unit id="c8a-y6-VQd.title" xml:space="preserve">
+        <source>Transformations</source>
+        <target>Transformations</target>
+        <note>Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd";</note>
+      </trans-unit>
+      <trans-unit id="cHd-gi-67h.title" xml:space="preserve">
+        <source>Paste the emailed license.
+Include the BEGIN LICENSE and END LICENSE lines.</source>
+        <target>Paste the emailed license.
+Include the BEGIN LICENSE and END LICENSE lines.</target>
+        <note>Class = "NSTextFieldCell"; title = "Paste the emailed license.\nInclude the BEGIN LICENSE and END LICENSE lines."; ObjectID = "cHd-gi-67h";</note>
+      </trans-unit>
+      <trans-unit id="cIE-Wb-PbN.ibShadowedToolTip" xml:space="preserve">
+        <source>Truncate Logs</source>
+        <target>Truncate Logs</target>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Truncate Logs"; ObjectID = "cIE-Wb-PbN";</note>
+      </trans-unit>
+      <trans-unit id="cNE-cG-CJ9.title" xml:space="preserve">
+        <source>Restore Purchases</source>
+        <target>Restore Purchases</target>
+        <note>Class = "NSButtonCell"; title = "Restore Purchases"; ObjectID = "cNE-cG-CJ9";</note>
+      </trans-unit>
+      <trans-unit id="cVq-gy-BFA.title" xml:space="preserve">
+        <source>Toggle Live Update</source>
+        <target>Toggle Live Update</target>
+        <note>Class = "NSMenuItem"; title = "Toggle Live Update"; ObjectID = "cVq-gy-BFA";</note>
+      </trans-unit>
+      <trans-unit id="caW-Sn-sSR.label" xml:space="preserve">
+        <source>Direct</source>
+        <target>Direct</target>
+        <note>Class = "NSTabViewItem"; label = "Direct"; ObjectID = "caW-Sn-sSR";</note>
+      </trans-unit>
+      <trans-unit id="cwL-P1-jid.title" xml:space="preserve">
+        <source>Smart Links</source>
+        <target>Smart Links</target>
+        <note>Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid";</note>
+      </trans-unit>
+      <trans-unit id="d9M-CD-aMd.title" xml:space="preserve">
+        <source>Make Lower Case</source>
+        <target>Make Lower Case</target>
+        <note>Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd";</note>
+      </trans-unit>
+      <trans-unit id="dI9-Bw-OJ8.headerCell.title" xml:space="preserve">
+        <source>Values</source>
+        <target>Values</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Values"; ObjectID = "dI9-Bw-OJ8";</note>
+      </trans-unit>
+      <trans-unit id="dMs-cI-mzQ.title" xml:space="preserve">
+        <source>File</source>
+        <target>File</target>
+        <note>Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ";</note>
+      </trans-unit>
+      <trans-unit id="dRJ-4n-Yzg.title" xml:space="preserve">
+        <source>Undo</source>
+        <target>Undo</target>
+        <note>Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg";</note>
+      </trans-unit>
+      <trans-unit id="da1-ho-BIh.title" xml:space="preserve">
+        <source>Connected Clients</source>
+        <target>Connected Clients</target>
+        <note>Class = "NSTextFieldCell"; title = "Connected Clients"; ObjectID = "da1-ho-BIh";</note>
+      </trans-unit>
+      <trans-unit id="dh6-nX-BQq.label" xml:space="preserve">
+        <source>Show Console</source>
+        <note>Class = "NSToolbarItem"; label = "Show Console"; ObjectID = "dh6-nX-BQq";</note>
+      </trans-unit>
+      <trans-unit id="dh6-nX-BQq.paletteLabel" xml:space="preserve">
+        <source>Show Console</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Show Console"; ObjectID = "dh6-nX-BQq";</note>
+      </trans-unit>
+      <trans-unit id="dh6-nX-BQq.toolTip" xml:space="preserve">
+        <source>Toggle Console</source>
+        <note>Class = "NSToolbarItem"; toolTip = "Toggle Console"; ObjectID = "dh6-nX-BQq";</note>
+      </trans-unit>
+      <trans-unit id="e2a-Db-hIk.title" xml:space="preserve">
+        <source>Hash</source>
+        <target>Hash</target>
+        <note>Class = "NSMenuItem"; title = "Hash"; ObjectID = "e2a-Db-hIk";</note>
+      </trans-unit>
+      <trans-unit id="eYl-Th-eTm.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eYl-Th-eTm";</note>
+      </trans-unit>
+      <trans-unit id="ecg-0e-nMM.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ecg-0e-nMM";</note>
+      </trans-unit>
+      <trans-unit id="evX-3G-qFC.title" xml:space="preserve">
+        <source>Window</source>
+        <target>Window</target>
+        <note>Class = "NSWindow"; title = "Window"; ObjectID = "evX-3G-qFC";</note>
+      </trans-unit>
+      <trans-unit id="fO4-AT-WSO.title" xml:space="preserve">
+        <source>SSH Password:</source>
+        <target>Mot de passe SSH:</target>
+        <note>Class = "NSTextFieldCell"; title = "SSH Password:"; ObjectID = "fO4-AT-WSO";</note>
+      </trans-unit>
+      <trans-unit id="fQc-bi-vZI.title" xml:space="preserve">
+        <source>Subscribe</source>
+        <target>Subscribe</target>
+        <note>Class = "NSButtonCell"; title = "Subscribe"; ObjectID = "fQc-bi-vZI";</note>
+      </trans-unit>
+      <trans-unit id="fZy-Sc-AR1.title" xml:space="preserve">
+        <source>List</source>
+        <target>List</target>
+        <note>Class = "NSMenuItem"; title = "List"; ObjectID = "fZy-Sc-AR1";</note>
+      </trans-unit>
+      <trans-unit id="fvq-12-yEp.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fvq-12-yEp";</note>
+      </trans-unit>
+      <trans-unit id="gLm-xB-4nb.title" xml:space="preserve">
+        <source>JSON</source>
+        <target>JSON</target>
+        <note>Class = "NSMenuItem"; title = "JSON"; ObjectID = "gLm-xB-4nb";</note>
+      </trans-unit>
+      <trans-unit id="gVA-U4-sdL.title" xml:space="preserve">
+        <source>Paste</source>
+        <target>Paste</target>
+        <note>Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL";</note>
+      </trans-unit>
+      <trans-unit id="gxe-IK-eiA.title" xml:space="preserve">
+        <source>Revert</source>
+        <target>Revert</target>
+        <note>Class = "NSButtonCell"; title = "Revert"; ObjectID = "gxe-IK-eiA";</note>
+      </trans-unit>
+      <trans-unit id="hQb-2v-fYv.title" xml:space="preserve">
+        <source>Smart Quotes</source>
+        <target>Smart Quotes</target>
+        <note>Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv";</note>
+      </trans-unit>
+      <trans-unit id="hoD-PM-2e8.label" xml:space="preserve">
+        <source>Show Detail</source>
+        <note>Class = "NSToolbarItem"; label = "Show Detail"; ObjectID = "hoD-PM-2e8";</note>
+      </trans-unit>
+      <trans-unit id="hoD-PM-2e8.paletteLabel" xml:space="preserve">
+        <source>Show Detail</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Show Detail"; ObjectID = "hoD-PM-2e8";</note>
+      </trans-unit>
+      <trans-unit id="hoD-PM-2e8.toolTip" xml:space="preserve">
+        <source>Toggle Detail</source>
+        <note>Class = "NSToolbarItem"; toolTip = "Toggle Detail"; ObjectID = "hoD-PM-2e8";</note>
+      </trans-unit>
+      <trans-unit id="hx0-Uo-XcH.title" xml:space="preserve">
+        <source>Sorted Set</source>
+        <target>Sorted Set</target>
+        <note>Class = "NSMenuItem"; title = "Sorted Set"; ObjectID = "hx0-Uo-XcH";</note>
+      </trans-unit>
+      <trans-unit id="hz2-CU-CR7.title" xml:space="preserve">
+        <source>Check Document Now</source>
+        <target>Check Document Now</target>
+        <note>Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7";</note>
+      </trans-unit>
+      <trans-unit id="hz9-B4-Xy5.title" xml:space="preserve">
+        <source>Services</source>
+        <target>Services</target>
+        <note>Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5";</note>
+      </trans-unit>
+      <trans-unit id="iDY-Jd-jzK.title" xml:space="preserve">
+        <source>Thanks for trying out Red.  Your purchase helps support development of future versions of this software.</source>
+        <target>Thanks for trying out Red.  Your purchase helps support development of future versions of this software.</target>
+        <note>Class = "NSTextFieldCell"; title = "Thanks for trying out Red.  Your purchase helps support development of future versions of this software."; ObjectID = "iDY-Jd-jzK";</note>
+      </trans-unit>
+      <trans-unit id="iHd-Yb-HEq.title" xml:space="preserve">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Class = "NSButtonCell"; title = "Save"; ObjectID = "iHd-Yb-HEq";</note>
+      </trans-unit>
+      <trans-unit id="iKG-pT-vSO.label" xml:space="preserve">
+        <source>Pub/Sub</source>
+        <note>Class = "NSToolbarItem"; label = "Pub/Sub"; ObjectID = "iKG-pT-vSO";</note>
+      </trans-unit>
+      <trans-unit id="iKG-pT-vSO.paletteLabel" xml:space="preserve">
+        <source>Pub/Sub</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Pub/Sub"; ObjectID = "iKG-pT-vSO";</note>
+      </trans-unit>
+      <trans-unit id="iKG-pT-vSO.toolTip" xml:space="preserve">
+        <source>New Pub/Sub Tab</source>
+        <note>Class = "NSToolbarItem"; toolTip = "New Pub/Sub Tab"; ObjectID = "iKG-pT-vSO";</note>
+      </trans-unit>
+      <trans-unit id="iog-LZ-ESk.title" xml:space="preserve">
+        <source>Purchase</source>
+        <target>Purchase</target>
+        <note>Class = "NSButtonCell"; title = "Purchase"; ObjectID = "iog-LZ-ESk";</note>
+      </trans-unit>
+      <trans-unit id="itP-Co-cOR.title" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "NSTextFieldCell"; title = "-"; ObjectID = "itP-Co-cOR";</note>
+      </trans-unit>
+      <trans-unit id="iyA-UG-R11.title" xml:space="preserve">
+        <source>Go to Database...</source>
+        <target>Go to Database...</target>
+        <note>Class = "NSMenuItem"; title = "Go to Database..."; ObjectID = "iyA-UG-R11";</note>
+      </trans-unit>
+      <trans-unit id="j8x-Zn-LzZ.title" xml:space="preserve">
+        <source>Set</source>
+        <target>Set</target>
+        <note>Class = "NSMenuItem"; title = "Set"; ObjectID = "j8x-Zn-LzZ";</note>
+      </trans-unit>
+      <trans-unit id="jCV-wX-zrB.title" xml:space="preserve">
+        <source>Set</source>
+        <target>Set</target>
+        <note>Class = "NSMenuItem"; title = "Set"; ObjectID = "jCV-wX-zrB";</note>
+      </trans-unit>
+      <trans-unit id="jGL-31-4As.title" xml:space="preserve">
+        <source>SortedSetView</source>
+        <target>SortedSetView</target>
+        <note>Class = "NSViewController"; title = "SortedSetView"; ObjectID = "jGL-31-4As";</note>
+      </trans-unit>
+      <trans-unit id="jIR-Q6-oL9.title" xml:space="preserve">
+        <source>Remove License...</source>
+        <target>Remove License...</target>
+        <note>Class = "NSMenuItem"; title = "Remove License..."; ObjectID = "jIR-Q6-oL9";</note>
+      </trans-unit>
+      <trans-unit id="jS0-h9-yiX.title" xml:space="preserve">
+        <source>Box</source>
+        <target>Box</target>
+        <note>Class = "NSBox"; title = "Box"; ObjectID = "jS0-h9-yiX";</note>
+      </trans-unit>
+      <trans-unit id="kIP-vf-haE.title" xml:space="preserve">
+        <source>Show Sidebar</source>
+        <target>Show Sidebar</target>
+        <note>Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "kIP-vf-haE";</note>
+      </trans-unit>
+      <trans-unit id="kbh-wT-rSt.title" xml:space="preserve">
+        <source>SetView</source>
+        <target>SetView</target>
+        <note>Class = "NSViewController"; title = "SetView"; ObjectID = "kbh-wT-rSt";</note>
+      </trans-unit>
+      <trans-unit id="kfi-mn-0IB.ibShadowedToolTip" xml:space="preserve">
+        <source>Reload Value</source>
+        <target>Reload Value</target>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Reload Value"; ObjectID = "kfi-mn-0IB";</note>
+      </trans-unit>
+      <trans-unit id="l9Q-bd-m1Y.title" xml:space="preserve">
+        <source>Connection failed</source>
+        <target>Connection failed</target>
+        <note>Class = "NSTextFieldCell"; title = "Connection failed"; ObjectID = "l9Q-bd-m1Y";</note>
+      </trans-unit>
+      <trans-unit id="lCV-8y-2Dq.title" xml:space="preserve">
+        <source>HSET key value</source>
+        <note>Class = "NSTextFieldCell"; title = "HSET key value"; ObjectID = "lCV-8y-2Dq";</note>
+      </trans-unit>
+      <trans-unit id="lHC-Cc-gru.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lHC-Cc-gru";</note>
+      </trans-unit>
+      <trans-unit id="lLk-KH-dyp.title" xml:space="preserve">
+        <source>Register</source>
+        <target>Register</target>
+        <note>Class = "NSButtonCell"; title = "Register"; ObjectID = "lLk-KH-dyp";</note>
+      </trans-unit>
+      <trans-unit id="lt4-ft-wk6.title" xml:space="preserve">
+        <source>Duplicate</source>
+        <note>Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "lt4-ft-wk6";</note>
+      </trans-unit>
+      <trans-unit id="lwG-Jc-vlg.title" xml:space="preserve">
+        <source>Please make a selection:</source>
+        <target>Please make a selection:</target>
+        <note>Class = "NSTextFieldCell"; title = "Please make a selection:"; ObjectID = "lwG-Jc-vlg";</note>
+      </trans-unit>
+      <trans-unit id="mBK-J7-DHF.title" xml:space="preserve">
+        <source>Port:</source>
+        <target>Port:</target>
+        <note>Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "mBK-J7-DHF";</note>
+      </trans-unit>
+      <trans-unit id="mK6-2p-4JG.title" xml:space="preserve">
+        <source>Check Grammar With Spelling</source>
+        <target>Check Grammar With Spelling</target>
+        <note>Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "mK6-2p-4JG";</note>
+      </trans-unit>
+      <trans-unit id="mNM-NU-tFH.title" xml:space="preserve">
+        <source>Red</source>
+        <target>Red</target>
+        <note>Class = "NSTextFieldCell"; title = "Red"; ObjectID = "mNM-NU-tFH";</note>
+      </trans-unit>
+      <trans-unit id="mZF-HS-ks7.ibShadowedToolTip" xml:space="preserve">
+        <source>⌘-Enter</source>
+        <target>⌘-Enter</target>
+        <note>Class = "NSButton"; ibShadowedToolTip = "⌘-Enter"; ObjectID = "mZF-HS-ks7";</note>
+      </trans-unit>
+      <trans-unit id="mZX-mF-BrF.ibShadowedToolTip" xml:space="preserve">
+        <source>Revert Value</source>
+        <target>Revert Value</target>
+        <note>Class = "NSButton"; ibShadowedToolTip = "Revert Value"; ObjectID = "mZX-mF-BrF";</note>
+      </trans-unit>
+      <trans-unit id="md0-nZ-hqT.title" xml:space="preserve">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Class = "NSTextFieldCell"; title = "Total"; ObjectID = "md0-nZ-hqT";</note>
+      </trans-unit>
+      <trans-unit id="mo5-FD-HyU.title" xml:space="preserve">
+        <source>$3.50</source>
+        <target>$3.50</target>
+        <note>Class = "NSTextFieldCell"; title = "$3.50"; ObjectID = "mo5-FD-HyU";</note>
+      </trans-unit>
+      <trans-unit id="n4l-r0-R3o.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "n4l-r0-R3o";</note>
+      </trans-unit>
+      <trans-unit id="nQo-rs-lIR.title" xml:space="preserve">
+        <source>Geo</source>
+        <target>Geo</target>
+        <note>Class = "NSMenuItem"; title = "Geo"; ObjectID = "nQo-rs-lIR";</note>
+      </trans-unit>
+      <trans-unit id="o35-Hb-pGq.title" xml:space="preserve">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Class = "NSTextFieldCell"; title = "Total"; ObjectID = "o35-Hb-pGq";</note>
+      </trans-unit>
+      <trans-unit id="oUb-Hb-9UQ.title" xml:space="preserve">
+        <source>Send Key Name to Console</source>
+        <note>Class = "NSMenuItem"; title = "Send Key Name to Console"; ObjectID = "oUb-Hb-9UQ";</note>
+      </trans-unit>
+      <trans-unit id="ofI-ry-DX5.title" xml:space="preserve">
+        <source>View Purchases...</source>
+        <target>View Purchases...</target>
+        <note>Class = "NSMenuItem"; title = "View Purchases..."; ObjectID = "ofI-ry-DX5";</note>
+      </trans-unit>
+      <trans-unit id="orr-Tb-ifk.title" xml:space="preserve">
+        <source>Name:</source>
+        <target>Nom:</target>
+        <note>Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "orr-Tb-ifk";</note>
+      </trans-unit>
+      <trans-unit id="owv-vI-oXk.title" xml:space="preserve">
+        <source>Add to favorites</source>
+        <target>Ajouter aux Favoris</target>
+        <note>Class = "NSButtonCell"; title = "Add to favorites"; ObjectID = "owv-vI-oXk";</note>
+      </trans-unit>
+      <trans-unit id="p2g-hR-KsB.ibShadowedLabels[0]" xml:space="preserve">
+        <source>1h</source>
+        <target>1h</target>
+        <note>Class = "NSSegmentedCell"; p2g-hR-KsB.ibShadowedLabels[0] = "1h"; ObjectID = "p2g-hR-KsB";</note>
+      </trans-unit>
+      <trans-unit id="p2g-hR-KsB.ibShadowedLabels[1]" xml:space="preserve">
+        <source>1d</source>
+        <target>1d</target>
+        <note>Class = "NSSegmentedCell"; p2g-hR-KsB.ibShadowedLabels[1] = "1d"; ObjectID = "p2g-hR-KsB";</note>
+      </trans-unit>
+      <trans-unit id="p2g-hR-KsB.ibShadowedLabels[2]" xml:space="preserve">
+        <source>Never</source>
+        <target>Never</target>
+        <note>Class = "NSSegmentedCell"; p2g-hR-KsB.ibShadowedLabels[2] = "Never"; ObjectID = "p2g-hR-KsB";</note>
+      </trans-unit>
+      <trans-unit id="p8y-yJ-HHP.placeholderString" xml:space="preserve">
+        <source>Filter</source>
+        <target>Filter</target>
+        <note>Class = "NSSearchFieldCell"; placeholderString = "Filter"; ObjectID = "p8y-yJ-HHP";</note>
+      </trans-unit>
+      <trans-unit id="pP3-IV-JCj.title" xml:space="preserve">
+        <source>Version 1.0 (build 5)</source>
+        <target>Version 1.0 (build 5)</target>
+        <note>Class = "NSTextFieldCell"; title = "Version 1.0 (build 5)"; ObjectID = "pP3-IV-JCj";</note>
+      </trans-unit>
+      <trans-unit id="pa3-QI-u2k.title" xml:space="preserve">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k";</note>
+      </trans-unit>
+      <trans-unit id="paP-V3-8c3.title" xml:space="preserve">
+        <source>Test Connection</source>
+        <target>Tester la connexion</target>
+        <note>Class = "NSButtonCell"; title = "Test Connection"; ObjectID = "paP-V3-8c3";</note>
+      </trans-unit>
+      <trans-unit id="q0l-wT-PRN.title" xml:space="preserve">
+        <source>MEM</source>
+        <target>MEM</target>
+        <note>Class = "NSTextFieldCell"; title = "MEM"; ObjectID = "q0l-wT-PRN";</note>
+      </trans-unit>
+      <trans-unit id="q8o-81-yHf.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "q8o-81-yHf";</note>
+      </trans-unit>
+      <trans-unit id="q09-fT-Sye.title" xml:space="preserve">
+        <source>Find Next</source>
+        <target>Find Next</target>
+        <note>Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye";</note>
+      </trans-unit>
+      <trans-unit id="qTn-nx-8Hc.title" xml:space="preserve">
+        <source>Home License</source>
+        <target>Home License</target>
+        <note>Class = "NSTextFieldCell"; title = "Home License"; ObjectID = "qTn-nx-8Hc";</note>
+      </trans-unit>
+      <trans-unit id="qcP-dF-HVB.title" xml:space="preserve">
+        <source>Hash</source>
+        <target>Hash</target>
+        <note>Class = "NSMenuItem"; title = "Hash"; ObjectID = "qcP-dF-HVB";</note>
+      </trans-unit>
+      <trans-unit id="r2F-Hl-viS.title" xml:space="preserve">
+        <source>⚡️QUICK CONNECT</source>
+        <note>Class = "NSTextFieldCell"; title = "⚡️QUICK CONNECT"; ObjectID = "r2F-Hl-viS";</note>
+      </trans-unit>
+      <trans-unit id="rbD-Rh-wIN.title" xml:space="preserve">
+        <source>Check Spelling While Typing</source>
+        <target>Check Spelling While Typing</target>
+        <note>Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN";</note>
+      </trans-unit>
+      <trans-unit id="rgM-f4-ycn.title" xml:space="preserve">
+        <source>Smart Dashes</source>
+        <target>Smart Dashes</target>
+        <note>Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn";</note>
+      </trans-unit>
+      <trans-unit id="ryH-y9-Eec.placeholderString" xml:space="preserve">
+        <source>Filter or Add Channel</source>
+        <target>Filter or Add Channel</target>
+        <note>Class = "NSSearchFieldCell"; placeholderString = "Filter or Add Channel"; ObjectID = "ryH-y9-Eec";</note>
+      </trans-unit>
+      <trans-unit id="sDw-fS-9l8.title" xml:space="preserve">
+        <source>String</source>
+        <target>String</target>
+        <note>Class = "NSMenuItem"; title = "String"; ObjectID = "sDw-fS-9l8";</note>
+      </trans-unit>
+      <trans-unit id="sKz-AD-2OI.title" xml:space="preserve">
+        <source>SortedSet</source>
+        <target>SortedSet</target>
+        <note>Class = "NSTextFieldCell"; title = "SortedSet"; ObjectID = "sKz-AD-2OI";</note>
+      </trans-unit>
+      <trans-unit id="smI-Pg-hEv.title" xml:space="preserve">
+        <source>Purchase License...</source>
+        <target>Purchase License...</target>
+        <note>Class = "NSMenuItem"; title = "Purchase License..."; ObjectID = "smI-Pg-hEv";</note>
+      </trans-unit>
+      <trans-unit id="snW-S8-Cw5.title" xml:space="preserve">
+        <source>Show Toolbar</source>
+        <target>Show Toolbar</target>
+        <note>Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5";</note>
+      </trans-unit>
+      <trans-unit id="sr3-QW-AVX.title" xml:space="preserve">
+        <source>Text Cell</source>
+        <target>Text Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "sr3-QW-AVX";</note>
+      </trans-unit>
+      <trans-unit id="tRr-pd-1PS.title" xml:space="preserve">
+        <source>Data Detectors</source>
+        <target>Data Detectors</target>
+        <note>Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "tRr-pd-1PS";</note>
+      </trans-unit>
+      <trans-unit id="thD-i7-hgC.headerCell.title" xml:space="preserve">
+        <source>Value</source>
+        <target>Value</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "thD-i7-hgC";</note>
+      </trans-unit>
+      <trans-unit id="thc-rj-Gvg.title" xml:space="preserve">
+        <source>
+Enter connection details or choose a favorite.</source>
+        <note>Class = "NSTextFieldCell"; title = "\nEnter connection details or choose a favorite."; ObjectID = "thc-rj-Gvg";</note>
+      </trans-unit>
+      <trans-unit id="tyb-6K-h84.ibExternalAccessibilityDescription" xml:space="preserve">
+        <source>Favorites Name</source>
+        <target>Favorites Name</target>
+        <note>Class = "NSTextField"; ibExternalAccessibilityDescription = "Favorites Name"; ObjectID = "tyb-6K-h84";</note>
+      </trans-unit>
+      <trans-unit id="uDS-if-eaM.title" xml:space="preserve">
+        <source>Online Documentation</source>
+        <target>Online Documentation</target>
+        <note>Class = "NSMenuItem"; title = "Online Documentation"; ObjectID = "uDS-if-eaM";</note>
+      </trans-unit>
+      <trans-unit id="uQy-DD-JDr.title" xml:space="preserve">
+        <source>Red</source>
+        <target>Red</target>
+        <note>Class = "NSMenu"; title = "Red"; ObjectID = "uQy-DD-JDr";</note>
+      </trans-unit>
+      <trans-unit id="uRl-iY-unG.title" xml:space="preserve">
+        <source>Cut</source>
+        <target>Cut</target>
+        <note>Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG";</note>
+      </trans-unit>
+      <trans-unit id="v9h-N0-VEZ.title" xml:space="preserve">
+        <source>Hash</source>
+        <target>Hash</target>
+        <note>Class = "NSMenuItem"; title = "Hash"; ObjectID = "v9h-N0-VEZ";</note>
+      </trans-unit>
+      <trans-unit id="vBd-Qb-8U8.ibShadowedIsNilPlaceholder" xml:space="preserve">
+        <source>22</source>
+        <note>Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "22"; ObjectID = "vBd-Qb-8U8";</note>
+      </trans-unit>
+      <trans-unit id="vEJ-8O-Ixg.title" xml:space="preserve">
+        <source>Registered to Sample Co.
+Placeholder License (0 Seats)</source>
+        <target>Registered to Sample Co.
+Placeholder License (0 Seats)</target>
+        <note>Class = "NSTextFieldCell"; title = "Registered to Sample Co.\nPlaceholder License (0 Seats)"; ObjectID = "vEJ-8O-Ixg";</note>
+      </trans-unit>
+      <trans-unit id="vaV-mf-j2u.title" xml:space="preserve">
+        <source>String</source>
+        <target>String</target>
+        <note>Class = "NSMenuItem"; title = "String"; ObjectID = "vaV-mf-j2u";</note>
+      </trans-unit>
+      <trans-unit id="viQ-G3-Z7O.title" xml:space="preserve">
+        <source>Port:</source>
+        <target>Port:</target>
+        <note>Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "viQ-G3-Z7O";</note>
+      </trans-unit>
+      <trans-unit id="vmV-6d-7jI.title" xml:space="preserve">
+        <source>Make Upper Case</source>
+        <target>Make Upper Case</target>
+        <note>Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI";</note>
+      </trans-unit>
+      <trans-unit id="wJt-rM-Zb3.title" xml:space="preserve">
+        <source>Box</source>
+        <target>Box</target>
+        <note>Class = "NSBox"; title = "Box"; ObjectID = "wJt-rM-Zb3";</note>
+      </trans-unit>
+      <trans-unit id="wLe-d1-aSL.headerCell.title" xml:space="preserve">
+        <source>Value</source>
+        <target>Value</target>
+        <note>Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "wLe-d1-aSL";</note>
+      </trans-unit>
+      <trans-unit id="wdk-1C-eih.title" xml:space="preserve">
+        <source>Key</source>
+        <target>Key</target>
+        <note>Class = "NSMenuItem"; title = "Key"; ObjectID = "wdk-1C-eih";</note>
+      </trans-unit>
+      <trans-unit id="wpr-3q-Mcd.title" xml:space="preserve">
+        <source>Help</source>
+        <target>Help</target>
+        <note>Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd";</note>
+      </trans-unit>
+      <trans-unit id="x3v-GG-iWU.title" xml:space="preserve">
+        <source>Copy</source>
+        <target>Copy</target>
+        <note>Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU";</note>
+      </trans-unit>
+      <trans-unit id="xdi-yc-E2a.title" xml:space="preserve">
+        <source>DB 0</source>
+        <target>DB 0</target>
+        <note>Class = "NSMenuItem"; title = "DB 0"; ObjectID = "xdi-yc-E2a";</note>
+      </trans-unit>
+      <trans-unit id="xhX-nz-xSN.title" xml:space="preserve">
+        <source>Geo</source>
+        <target>Geo</target>
+        <note>Class = "NSMenuItem"; title = "Geo"; ObjectID = "xhX-nz-xSN";</note>
+      </trans-unit>
+      <trans-unit id="xrE-MZ-jX0.title" xml:space="preserve">
+        <source>Speech</source>
+        <target>Speech</target>
+        <note>Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0";</note>
+      </trans-unit>
+      <trans-unit id="xzl-UU-Xv5.title" xml:space="preserve">
+        <source>Already purchased?</source>
+        <target>Already purchased?</target>
+        <note>Class = "NSTextFieldCell"; title = "Already purchased?"; ObjectID = "xzl-UU-Xv5";</note>
+      </trans-unit>
+      <trans-unit id="y4b-fT-v4j.title" xml:space="preserve">
+        <source>Save Changes</source>
+        <target>Sauvegarder les modifications</target>
+        <note>Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "y4b-fT-v4j";</note>
+      </trans-unit>
+      <trans-unit id="yBr-5l-bsi.title" xml:space="preserve">
+        <source>I</source>
+        <target>I</target>
+        <note>Class = "NSTextFieldCell"; title = "I"; ObjectID = "yBr-5l-bsi";</note>
+      </trans-unit>
+      <trans-unit id="yW7-2h-n8Z.title" xml:space="preserve">
+        <source>Report Issue</source>
+        <target>Report Issue</target>
+        <note>Class = "NSMenuItem"; title = "Report Issue"; ObjectID = "yW7-2h-n8Z";</note>
+      </trans-unit>
+      <trans-unit id="yo1-au-kiX.placeholderString" xml:space="preserve">
+        <source>22</source>
+        <target>22</target>
+        <note>Class = "NSTextFieldCell"; placeholderString = "22"; ObjectID = "yo1-au-kiX";</note>
+      </trans-unit>
+      <trans-unit id="z6F-FW-3nz.title" xml:space="preserve">
+        <source>Show Substitutions</source>
+        <target>Show Substitutions</target>
+        <note>Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz";</note>
+      </trans-unit>
+      <trans-unit id="zPl-US-sjw.title" xml:space="preserve">
+        <source>Reload Key</source>
+        <target>Reload Key</target>
+        <note>Class = "NSMenuItem"; title = "Reload Key"; ObjectID = "zPl-US-sjw";</note>
+      </trans-unit>
+      <trans-unit id="zVu-Gu-5ST.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "zVu-Gu-5ST";</note>
+      </trans-unit>
+      <trans-unit id="zpq-s6-bec.title" xml:space="preserve">
+        <source>Table View Cell</source>
+        <target>Table View Cell</target>
+        <note>Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "zpq-s6-bec";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Red/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3" build-num="11C29"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Red</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2019-2020 Echodot LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+      <trans-unit id="Red DB" xml:space="preserve">
+        <source>Red DB</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
